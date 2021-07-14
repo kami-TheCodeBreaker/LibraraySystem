@@ -1,7 +1,3 @@
 one problem is that i can not issue the same book to multiple student because
 
-I am using the hashmap in which there must be a unique key for every entry .....
-
-
-
-
+I am using the hashmap in which there must be a unique key for every entry ..
